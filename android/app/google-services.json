@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516897374723",
+    "project_id": "hr-unimeals",
+    "storage_bucket": "hr-unimeals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516897374723:android:8a78f1cfd3ec04731b8436",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXvVWrHsGNabWkaZLoyPtyy9gsEyia-dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
